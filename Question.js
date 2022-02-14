@@ -62,7 +62,7 @@ class Question {
         window.location.assign("https://thanishkaa004.github.io/level1fantasy-final-copy/FantasyLevel1.html")
       }
       if(this.input2.value() === "Fiction"){
-        window.location.assign("https://www.youtube.com/")
+        window.location.assign("https://thanishkaa004.github.io/FictionLevel1/FictionLevel1.html")
       }
       if(this.input2.value() === "Non-Fiction"){
         window.location.assign("https://www.youtube.com/")
