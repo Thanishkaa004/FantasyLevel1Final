@@ -65,7 +65,7 @@ class Question {
         window.location.assign("https://thanishkaa004.github.io/FictionLevel1/FictionLevel1.html")
       }
       if(this.input2.value() === "Non-Fiction"){
-        window.location.assign("https://www.youtube.com/")
+        window.location.assign("https://thanishkaa004.github.io/NonFictionLevel1/NonfictionLevel1.html")
       }
       
       // this.message.html("Thank You, Your Answer Has Been Submitted");
